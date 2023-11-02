@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'cicero-compucelltv/ecommerce',
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
-        'reference' => NULL,
+        'pretty_version' => 'dev-master',
+        'version' => 'dev-master',
+        'reference' => 'f8a7cd553c1dbee72b7aa1c529ff2b17e0baf7df',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -11,9 +11,9 @@
     ),
     'versions' => array(
         'cicero-compucelltv/ecommerce' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
-            'reference' => NULL,
+            'pretty_version' => 'dev-master',
+            'version' => 'dev-master',
+            'reference' => 'f8a7cd553c1dbee72b7aa1c529ff2b17e0baf7df',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
